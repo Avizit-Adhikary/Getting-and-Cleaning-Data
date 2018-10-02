@@ -1,0 +1,7 @@
+---
+title: "codebook"
+author: "Avizit"
+date: "October 2, 2018"
+
+
+Download the data set first. Then run the codes as usual. Procedures can be understood easily as conventional names for any function are used. 

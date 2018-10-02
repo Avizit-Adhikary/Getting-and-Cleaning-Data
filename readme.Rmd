@@ -1,0 +1,11 @@
+---
+title: "readme"
+author: "Avizit"
+date: "October 2, 2018"
+output: html_document
+---
+
+
+
+This file describes, how to use the reproduce the results. Fisrt, download the dataset from the course link and then run the codes in the codebook file. 
+
